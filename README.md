@@ -1,1 +1,1 @@
-It's the #RemainderNibbaBot
+It's the RemainderNibbaBot
