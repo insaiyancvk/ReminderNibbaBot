@@ -15,3 +15,4 @@ if __name__=='__main__':
 # this is just my code so fuck yaalllll ... dont try to edit it 
 #i am in
 #madara in
+#madara hashirama is pregnant
